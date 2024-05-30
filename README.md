@@ -33,3 +33,28 @@ This is a simple command-line implementation of the classic "Rock, Paper, Scisso
 
 ```bash
 python main.py
+
+Enter the number of attempts you want to play: 3
+Enter your choice (r for rock, p for paper, s for scissors): r
+Computer choice is: p
+You lost!
+
+Enter your choice (r for rock, p for paper, s for scissors): s
+Computer choice is: r
+You lost!
+
+Enter your choice (r for rock, p for paper, s for scissors): p
+Computer choice is: s
+You lost!
+
+Your score: 0
+Computer score: 3
+Draw games: 0
+You lost the game! 
+```
+
+## License
+This project is licensed under the MIT License - see the [License](License) file for details.
+
+## Author
+MUGGULLA DHARANI SAI SRIRAM
