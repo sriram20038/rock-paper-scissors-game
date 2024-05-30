@@ -31,6 +31,7 @@ This is a simple command-line implementation of the classic "Rock, Paper, Scisso
 3. Navigate to the project directory.
 4. Run the game:
 
+
 ```bash
 python main.py
 
@@ -50,7 +51,7 @@ You lost!
 Your score: 0
 Computer score: 3
 Draw games: 0
-You lost the game! 
+You lost the game!
 ```
 
 ## License
